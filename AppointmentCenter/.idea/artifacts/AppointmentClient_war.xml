@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AppointmentClient:war">
+    <output-path>$PROJECT_DIR$/../AppointmentClient/target</output-path>
+    <root id="archive" name="AppointmentClient-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="AppointmentClient:war exploded" />
+    </root>
+  </artifact>
+</component>

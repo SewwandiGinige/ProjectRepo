@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppointmentCenterAPI/AppointmentCenterAPI.iml" filepath="$PROJECT_DIR$/AppointmentCenterAPI/AppointmentCenterAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AppointmentClient/AppointmentClient.iml" filepath="$PROJECT_DIR$/../AppointmentClient/AppointmentClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AppointmentUI/AppointmentUI.iml" filepath="$PROJECT_DIR$/../AppointmentUI/AppointmentUI.iml" />
+    </modules>
+  </component>
+</project>

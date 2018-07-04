@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AppointmentCenterAPI:war">
+    <output-path>$PROJECT_DIR$/AppointmentCenterAPI/target</output-path>
+    <root id="archive" name="AppointmentCenterAPI.war">
+      <element id="artifact" artifact-name="AppointmentCenterAPI:war exploded" />
+    </root>
+  </artifact>
+</component>
